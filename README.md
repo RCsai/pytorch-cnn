@@ -12,3 +12,5 @@
 4.saveImage用于mnist数据集的可视化
 
 5.dataset用于数据准备
+
+6.checkpoint文件加用于存放训练好的模型权重
