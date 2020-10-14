@@ -7,7 +7,7 @@
 2.CNN_train以及CNN_test用于CNN网路的训练以及测试
 
 
-3.Liner_train以及Liner_test用于全连接网络的训练以及测试
+3.Linear_train以及Linear_test用于全连接网络的训练以及测试
 
 4.saveImage用于mnist数据集的可视化
 
